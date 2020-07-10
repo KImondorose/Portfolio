@@ -111,10 +111,12 @@ a{
 
 .projects{
     
-        width: 100%;
-        float: right;
-        list-style-type: disc;
-        text-align: center;
+    width: 500px;
+    float: right;
+    list-style-type: none;
+    text-align: center;
+    border-style: double;
+    box-sizing: border-box;
 }
 
 h1{
@@ -128,6 +130,11 @@ h1{
     text-align: center;
     width: 100%;
     
+}
+
+.span{
+    color: red;
+    font-weight: 700;
 }
 .navfooter{
     float: left;
