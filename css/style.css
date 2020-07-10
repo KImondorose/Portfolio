@@ -89,6 +89,8 @@ a{
 
 
 .copyright{
+    float: left;
+    width: ;
     text-align: center;
     width: 100%;
 }
