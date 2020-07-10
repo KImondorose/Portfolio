@@ -9,10 +9,23 @@ body{
     color: white;
     margin: 5%;
 }
-
+[class*=col]{
+    padding: 0;
+  }
 header, footer{
     padding: 5%;
     border: 1px solid rgb(238, 6, 6);
     border-style: dotted;
     border-width: 0.1rem;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+a{
+    text-align: right;
+    color: white;
+}
+
+.col-6{
+    text-align: right;
 }
