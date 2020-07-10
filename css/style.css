@@ -3,6 +3,18 @@
     padding: 0;
 }
 
+@media screen and (min-width: 480px){
+    .firstimage{
+        max-height: 300px;
+        min-height: 300px;
+    }
+}
+ @media screen and (max-width:180px){
+       body{
+           font-size: 10px;
+       }
+        }     
+    
 body{
     background-color:rgb(57, 59, 57);
     font-family: 'Josefin Slab', serif;
@@ -25,7 +37,6 @@ header, footer{
 .name{
     margin-bottom: 6%;
     }
-}
 
 .headerh1{
     text-align: left;
@@ -37,6 +48,18 @@ a{
     color: white;
 }
 
+.firstimage{
+    max-width: 300px;
+    max-height: 300px;
+    align-items: center;
+    margin: 4%;
+}
+
 .col-6{
     text-align: right;
+}
+
+.floatleft{
+    float: left;
+    width: 50%;
 }
