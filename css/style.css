@@ -8,6 +8,7 @@ body{
     font-family: 'Josefin Slab', serif;
     color: white;
     margin: 5%;
+    font-size: 20px;
 }
 [class*=col]{
     padding: 0;
@@ -19,6 +20,11 @@ header, footer{
     border-width: 0.1rem;
     margin-top: 2%;
     margin-bottom: 2%;
+}
+
+.name{
+    margin-bottom: 6%;
+    }
 }
 
 .headerh1{
