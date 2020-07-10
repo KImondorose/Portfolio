@@ -13,4 +13,6 @@ body{
 header, footer{
     padding: 5%;
     border: 1px solid rgb(238, 6, 6);
+    border-style: dotted;
+    border-width: 0.1rem;
 }
