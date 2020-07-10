@@ -21,6 +21,11 @@ header, footer{
     margin-bottom: 2%;
 }
 
+.headerh1{
+    text-align: left;
+    text-transform: capitalize;
+    text-decoration-line: underline;
+}
 a{
     text-align: right;
     color: white;
