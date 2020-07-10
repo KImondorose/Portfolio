@@ -20,6 +20,7 @@ body{
     font-family: 'Josefin Slab', serif;
     color: white;
     margin: 5%;
+    margin-top: 1%;
     font-size: 20px;
 }
 [class*=col]{
@@ -30,7 +31,6 @@ header{
     border: 1px solid rgb(238, 6, 6);
     border-style: dotted;
     border-width: 0.1rem;
-    margin-top: 2%;
     margin-bottom: 2%;
     border-style: hidden;
 }
@@ -52,9 +52,14 @@ footer{
     text-align: left;
     text-transform: capitalize;
     text-decoration-line: underline;
+    text-transform: uppercase;
+    color: red;
+    box-sizing: border-box;
+    border-color: yellow;
 }
+
 a{
-    text-align: right;
+    text-align:right;
     color: white;
 }
 
