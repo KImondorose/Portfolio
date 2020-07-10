@@ -103,6 +103,14 @@ a{
     list-style-type: none;
     text-align: center;
 }
+
+.projects{
+    
+        width: 100%;
+        float: right;
+        list-style-type: disc;
+        text-align: center;
+}
 .copyright{
     float: left;
     width: ;
