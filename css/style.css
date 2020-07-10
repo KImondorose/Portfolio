@@ -77,13 +77,13 @@ a{
 }
 #floatleft{
     float: left;
-    width: 600px;
+    width: 500px;
     padding: 10px;
 }
 
 #floatright{
     float: right;
-    width: 600px;
+    width: 500px;
     padding: 10px;
 }
 
@@ -111,17 +111,29 @@ a{
         list-style-type: disc;
         text-align: center;
 }
+
+h1{
+    color: rgb(185, 145, 175);
+    font-weight: 500;
+    font-style: oblique;
+    text-transform: uppercase;
+}
 .copyright{
     float: left;
-    width: ;
     text-align: center;
     width: 100%;
 }
 .navfooter{
     float: left;
-    width: ;
     text-align: center;
     width: 100%; 
+}
+
+.borderaboutme{
+    border-style: dotted;
+    border-color: white;
+    border-width: 0.1rem;
+    
 }
 
 .pfooter{
