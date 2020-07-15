@@ -37,4 +37,4 @@ rosewairimu1@gmail.com
 
 ### License
 Copyright (c) {2020} **Rose Kimondo**
-[Portfolio][https://github.com/KImondorose/Portfolio]
+[Portfolio][kimondorose.github.io/portfolio/]

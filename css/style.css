@@ -26,6 +26,7 @@ body{
 [class*=col]{
     padding: 0;
   }
+
 header{
     padding: 5%;
     border: 1px solid rgb(238, 6, 6);
@@ -44,9 +45,10 @@ footer{
     margin-bottom: 5%;
     border-style: hidden;
 }
+
 .name{
     margin-bottom: 6%;
-    }
+}
 
 .headerh1{
     text-align: left;
@@ -80,6 +82,7 @@ a{
     border-color: white;
     border-width: 0.1rem;
 }
+
 #floatleft{
     float: left;
     width: 500px;
@@ -130,6 +133,7 @@ h1{
     font-style: oblique;
     text-transform: uppercase;
 }
+
 .copyright{
     float: left;
     text-align: center;
@@ -141,6 +145,7 @@ h1{
     color: red;
     font-weight: 700;
 }
+
 .navfooter{
     float: left;
     text-align: center;
@@ -148,8 +153,6 @@ h1{
     margin: 2%;
     padding: 2%;
 }
-
-
 
 .pfooter{
     float: left;
